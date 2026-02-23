@@ -2,7 +2,7 @@
 
 A modern React application that allows users to search and browse movies using the OMDB API. The app displays movies in alphabetical order with their posters, titles, and release years.
 
-![Movies App Screenshot](./screenshots/screenshot.png)
+![Movies App Screenshot](./src/screenshots/screenshot.png)
 
 ## Features
 
